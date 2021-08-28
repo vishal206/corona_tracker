@@ -13,10 +13,17 @@
 * Implemented REST API & Volley Library in Android
 
 ## About:
+* **STARTING PAGE**
+<img src="https://github.com/vishal206/corona_tracker/blob/master/ScreenShots/startingPage.jpg" width="192">
+
 * **HOME PAGE**
+<img src="https://github.com/vishal206/corona_tracker/blob/master/ScreenShots/homePage.jpg" width="192">
+
   - User can see the total covid-19 cases across the globe and also total case per day.
   - User can select a state from the drop down and the detail of the selected state will be shown in the next page.
 * **STATE STATS**
+<img src="https://github.com/vishal206/corona_tracker/blob/master/ScreenShots/stateInfo.jpg" width="192">
+
   - In this page the user can see the detailed stats for the state he/she selected.
   - details include counts of Total cases, Deceased, Recovered, Tested, First dose vaccinated, Second dose vaccinated.
   

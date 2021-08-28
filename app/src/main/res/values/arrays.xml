@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="states">
+        <item>-select state-</item>
+        <item>AN</item>
+        <item>AP</item>
+        <item>AR</item>
+        <item>AS</item>
+        <item>BR</item>
+        <item>CH</item>
+        <item>CT</item>
+        <item>DL</item>
+        <item>DN</item>
+        <item>GA</item>
+        <item>GJ</item>
+        <item>HP</item>
+        <item>HR</item>
+        <item>JH</item>
+        <item>JK</item>
+        <item>KA</item>
+        <item>KL</item>
+        <item>LA</item>
+        <item>LD</item>
+        <item>MH</item>
+        <item>ML</item>
+        <item>MN</item>
+        <item>MP</item>
+        <item>MZ</item>
+        <item>NL</item>
+        <item>OR</item>
+        <item>PB</item>
+        <item>PY</item>
+        <item>RJ</item>
+        <item>SK</item>
+        <item>TG</item>
+        <item>TN</item>
+        <item>TR</item>
+        <item>TT</item>
+        <item>UP</item>
+        <item>UT</item>
+        <item>WB</item>
+    </string-array>
+</resources>

@@ -16,7 +16,7 @@
 * **STARTING PAGE**
 <img src="https://github.com/vishal206/corona_tracker/blob/master/ScreenShots/startingPage.jpg" width="192">
 
-* **HOME PAGE**
+* **HOME PAGE **
 <img src="https://github.com/vishal206/corona_tracker/blob/master/ScreenShots/homePage.jpg" width="192">
 
   - User can see the total covid-19 cases across the globe and also total case per day.
